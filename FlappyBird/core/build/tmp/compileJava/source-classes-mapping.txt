@@ -1,0 +1,16 @@
+com/mygdx/game/state/GameStateManager.java
+ com.mygdx.game.state.GameStateManager
+sprites/Animation.java
+ sprites.Animation
+com/mygdx/game/state/PlayState.java
+ com.mygdx.game.state.PlayState
+sprites/Tube.java
+ sprites.Tube
+com/mygdx/game/state/state.java
+ com.mygdx.game.state.state
+sprites/Bird.java
+ sprites.Bird
+com/mygdx/game/state/MenuState.java
+ com.mygdx.game.state.MenuState
+com/mygdx/game/FlappyBirdGdxGame.java
+ com.mygdx.game.FlappyBirdGdxGame

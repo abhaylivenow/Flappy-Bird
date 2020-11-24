@@ -1,1 +1,1 @@
-Classic Flappy Bird using hava and libgdx
+Classic Flappy Bird using Java and libgdx framework
